@@ -1,0 +1,11 @@
+My First GitHub Project
+
+Hello! I am learning GitHub.
+This is my first practice repository.
+
+I am learning:
+1. Repositories
+2. Files
+3. Commits
+4. Branches
+5. Pull Requests
